@@ -1,7 +1,7 @@
-# Cutest picture entry: a tiny ginger kitten with big amber eyes, head
-# tilted, one paw raised, and a ball of yarn on a knitted blanket.
-# The picture is stored as base64 in cute.b64 (one line); the program
-# decodes it and writes it to /output/entry.png (deterministic).
+# Cutest picture entry: a tiny cream kitten with big blue eyes and a
+# daisy crown gently hugging a fluffy yellow chick, both on a knitted
+# blanket. The picture is stored as base64 in cute.b64 (one line); the
+# program decodes it and writes it to /output/entry.png (deterministic).
 import base64
 import os
 
